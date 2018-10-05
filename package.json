@@ -10,5 +10,8 @@
     "docs:deploy": "sh deploy.sh"
   },
   "author": "MotionG",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^0.14.4"
+  }
 }

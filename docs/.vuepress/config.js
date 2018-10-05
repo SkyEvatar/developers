@@ -17,7 +17,7 @@ module.exports = {
       "/general/": ["", "use-cases", "get-started-for-app", "teams"],
       "/js-api/": ["", "ch01", "ch02", "ch03"],
       "/ios-api/": ["", "idl"],
-      "/android-api/": ["", "idl"],
+      "/android-api/": ["", "idl", "android_sdk"],
 
       "/installation/": ["", "install", "setup", "startup"],
       "/test": [""],
